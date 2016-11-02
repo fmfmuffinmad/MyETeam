@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="roles">
+        <item>Carry</item>
+        <item>Mid</item>
+        <item>Offlane</item>
+        <item>Support</item>
+        <item>Roaming/Jungle</item>
+    </array>
+    <array name="hero_list">
+        <item> Abaddon​</item>
+        <item> Alchemist​</item>
+        <item> Ancient Apparition​</item>
+        <item> Anti-Mage​</item>
+        <item> Arc Warden​</item>
+        <item> Axe​</item>
+        <item> Bane​</item>
+        <item> Batrider​</item>
+        <item> Beastmaster​</item>
+        <item> Bloodseeker​</item>
+        <item> Bounty Hunter​</item>
+        <item> Brewmaster​</item>
+        <item> Bristleback​</item>
+        <item> Broodmother​</item>
+        <item> Centaur Warrunner​</item>
+        <item> Chaos Knight​</item>
+        <item> Chen​</item>
+        <item> Clinkz​</item>
+        <item> Clockwerk​</item>
+        <item> Crystal Maiden​</item>
+        <item> Dark Seer​</item>
+        <item> Dazzle​</item>
+        <item> Death Prophet​</item>
+        <item> Disruptor​</item>
+        <item> Doom​</item>
+        <item> Dragon Knight​</item>
+        <item> Drow Ranger​</item>
+        <item> Earth Spirit​</item>
+        <item> Earthshaker​</item>
+        <item> Elder Titan​</item>
+        <item> Ember Spirit​</item>
+        <item> Enchantress​</item>
+        <item> Enigma​</item>
+        <item> Faceless Void​</item>
+        <item> Gyrocopter​</item>
+        <item> Huskar​</item>
+        <item> Invoker​</item>
+        <item> Io​</item>
+        <item> Jakiro​</item>
+        <item> Juggernaut​</item>
+        <item> Keeper of the Light​</item>
+        <item> Kunkka​</item>
+        <item> Legion Commander​</item>
+        <item> Leshrac​</item>
+        <item> Lich​</item>
+        <item> Lifestealer​</item>
+        <item> Lina​</item>
+        <item> Lion​</item>
+        <item> Lone Druid​</item>
+        <item> Luna​</item>
+        <item> Lycan​</item>
+        <item> Magnus​</item>
+        <item> Medusa​</item>
+        <item> Meepo​</item>
+        <item> Mirana​</item>
+        <item> Monkey King​</item>
+        <item> Morphling​</item>
+        <item> Naga Siren​</item>
+        <item> Nature\'s Prophet​</item>
+        <item> Necrophos​</item>
+        <item> Night Stalker​</item>
+        <item> Nyx Assassin​</item>
+        <item> Ogre Magi​</item>
+        <item> Omniknight​</item>
+        <item> Oracle​</item>
+        <item> Outworld Devourer​</item>
+        <item> Phantom Assassin​</item>
+        <item> Phantom Lancer​</item>
+        <item> Phoenix​</item>
+        <item> Puck​</item>
+        <item> Pudge​</item>
+        <item> Pugna​</item>
+        <item> Queen of Pain​</item>
+        <item> Razor​</item>
+        <item> Riki​</item>
+        <item> Rubick​</item>
+        <item> Sand King​</item>
+        <item> Shadow Demon​</item>
+        <item> Shadow Fiend​</item>
+        <item> Shadow Shaman​</item>
+        <item> Silencer​</item>
+        <item> Skywrath Mage​</item>
+        <item> Slardar​</item>
+        <item> Slark​</item>
+        <item> Sniper​</item>
+        <item> Spectre​</item>
+        <item> Spirit Breaker​</item>
+        <item> Storm Spirit​</item>
+        <item> Sven​</item>
+        <item> Techies​</item>
+        <item> Templar Assassin​</item>
+        <item> Terrorblade​</item>
+        <item> Tidehunter​</item>
+        <item> Timbersaw​</item>
+        <item> Tinker​</item>
+        <item> Tiny​</item>
+        <item> Treant Protector​</item>
+        <item> Troll Warlord​</item>
+        <item> Tusk​</item>
+        <item> Underlord​</item>
+        <item> Undying​</item>
+        <item> Ursa​</item>
+        <item> Vengeful Spirit​</item>
+        <item> Venomancer​</item>
+        <item> Viper​</item>
+        <item> Visage​</item>
+        <item> Warlock​</item>
+        <item> Weaver​</item>
+        <item> Windranger​</item>
+        <item> Winter Wyvern​</item>
+        <item> Witch Doctor​</item>
+        <item> Wraith King​</item>
+        <item> Zeus​</item>
+    </array>
+</resources>

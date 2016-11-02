@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "651768812307",
+    "firebase_url": "https://myeteam-fc6cc.firebaseio.com",
+    "project_id": "myeteam-fc6cc",
+    "storage_bucket": "myeteam-fc6cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651768812307:android:522bebe5ee412cc7",
+        "android_client_info": {
+          "package_name": "com.myeteam.muffinmad.myeteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651768812307-39pqoqsphinlbnqi2ch6hl4f6lqdiajm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myeteam.muffinmad.myeteam",
+            "certificate_hash": "CF0478AFB5E9047AC0244EFCA16385CBC29310AF"
+          }
+        },
+        {
+          "client_id": "651768812307-cl8k7tre2l0i7nnjtlq7cri6152gdb2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVbl37h2mccKMUbrI2SsQ9JrxFwnGbhHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651768812307-cl8k7tre2l0i7nnjtlq7cri6152gdb2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

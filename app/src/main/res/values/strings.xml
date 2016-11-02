@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyETeam</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_my_eteams_tabs">MyETeamsTabs</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_my_hero">MyHeroActivity</string>
+
+    <!--<string name="default_web_client_id">651768812307-39pqoqsphinlbnqi2ch6hl4f6lqdiajm.apps.googleusercontent.com</string>-->
+</resources>
