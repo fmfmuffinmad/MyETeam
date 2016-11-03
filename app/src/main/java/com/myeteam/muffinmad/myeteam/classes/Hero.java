@@ -19,6 +19,12 @@ public class Hero implements Serializable {
     private boolean jungleroam;
 
     public Hero() {
+        carry = false;
+        mid = false;
+        offlane = false;
+        support = false;
+        jungleroam = false;
+        skillLevel = "";
     }
 
     public Hero(String name, String skillLevel, boolean carry, boolean mid, boolean offlane, boolean support, boolean jungleroam) {

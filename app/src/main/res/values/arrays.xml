@@ -7,6 +7,13 @@
         <item>Support</item>
         <item>Roaming/Jungle</item>
     </array>
+    <array name="skill_level">
+        <item>Very High</item>
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+        <item>Never played the hero</item>
+    </array>
     <array name="hero_list">
         <item> Abaddon​</item>
         <item> Alchemist​</item>
